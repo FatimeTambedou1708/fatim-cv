@@ -189,9 +189,11 @@ span{
 
 .dark-mode .heading {
   background-color: black;
-  color: black;
+  color: white;
 }
-
+.dark-mode .right{
+    color: black;
+}
 .dark-mode .skill-container {
   background-color: black;
 
@@ -200,6 +202,4 @@ span{
   border: 10px solid black;
     box-shadow: 6px 7px 9px 5px black;
 }
-.dark-mode body {
-    background-color: black;
-}
+
